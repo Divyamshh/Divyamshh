@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyamshh
 - 👀 I’m interested in Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine learning algorithms
-- 💞️ I’m looking to collaborate on big data mdoels and projects
+- 💞️ I’m looking to collaborate on big data models and projects
 - 📫 How to reach me divyamsh2003@gmail.com
 
 <!---
